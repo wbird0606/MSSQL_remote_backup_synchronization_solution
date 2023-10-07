@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupClient", "BackupClient.csproj", "{3126E520-E261-4C92-9234-F7A39A9947F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3126E520-E261-4C92-9234-F7A39A9947F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3126E520-E261-4C92-9234-F7A39A9947F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3126E520-E261-4C92-9234-F7A39A9947F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3126E520-E261-4C92-9234-F7A39A9947F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D780B05-25F1-4801-89BF-AF43E838DC98}
+	EndGlobalSection
+EndGlobal
